@@ -1,0 +1,12 @@
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\bin\Debug\PopulationDB.mdf
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\bin\Debug\PopulationDB_log.ldf
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\bin\Debug\N-Roach-CPT-206-Lab-2.exe.config
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\bin\Debug\N-Roach-CPT-206-Lab-2.exe
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\bin\Debug\N-Roach-CPT-206-Lab-2.pdb
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N-Roach-CPT-206-Lab-2.csproj.AssemblyReference.cache
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N_Roach_CPT_206_Lab_2.Form1.resources
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N_Roach_CPT_206_Lab_2.Properties.Resources.resources
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N-Roach-CPT-206-Lab-2.csproj.GenerateResource.cache
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N-Roach-CPT-206-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N-Roach-CPT-206-Lab-2.exe
+C:\Users\nickr\source\repos\N-Roach-CPT-206-Lab-2\obj\Debug\N-Roach-CPT-206-Lab-2.pdb
